@@ -1,7 +1,5 @@
 # Mecanum Simulator
 
-This code was written in a rush by myself, so the commit messages could be better.
-
 - I formatted this code with Black on a whim. I'm not entirely sure that I like it yet.
 - `systemgame.py` is playable.
 - `goalfinder.py` is only playable once a model has been trained using `ml_trainer.py`
